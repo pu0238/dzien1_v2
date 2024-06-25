@@ -1,5 +1,0 @@
-[workspace]
-members = [
-    "src/dzien1_v2_backend"
-]
-resolver = "2"
